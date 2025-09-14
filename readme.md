@@ -44,7 +44,7 @@ Before running the application, ensure you have the following:
 
     ```bash
     git clone [your_repository_url]
-    cd prescription_analyzer
+    cd Doctor_prescription_agent
     ```
 
 2.  **Create `keys.py`:**
@@ -67,7 +67,7 @@ Before running the application, ensure you have the following:
 1.  **Navigate to the Project Directory:**
 
     ```bash
-    cd prescription_analyzer
+    cd Doctor_prescription_agent
     ```
 
 2.  **Run the Streamlit App:**
