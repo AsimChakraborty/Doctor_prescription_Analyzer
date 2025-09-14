@@ -1,0 +1,18 @@
+
+# Core Libraries
+streamlit
+pandas
+pydantic
+python-dotenv
+
+# OpenAI Integration
+langchain
+langchain-core
+
+
+# Image Processing
+Pillow
+
+# Other Utilities
+langchain-google-genai 
+google-generativeai
