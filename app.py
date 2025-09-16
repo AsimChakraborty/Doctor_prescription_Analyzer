@@ -109,6 +109,7 @@ def main():
 
     # Footer disclaimer
     st.markdown("""
+                
     <hr style='margin-top:40px;margin-bottom:10px;border:1px solid #e94646;'>
     <div style='font-size:0.95rem; color:#e94646; font-weight:bold;'>
     ❗ DISCLAIMER:<br>

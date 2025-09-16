@@ -26,6 +26,7 @@ The Prescription Analyzer is a Streamlit application designed to extract structu
 *   **Pydantic:** For data validation and schema definition.
 *   **Pandas:** For creating and displaying data tables.
 
+
 ## Prerequisites
 
 Before running the application, ensure you have the following:
